@@ -1,16 +1,13 @@
 {
-	"folders": [
-		{
-			"path": ".."
-		}
-	],
-	"settings": {
-		"java.project.sourcePaths": [
-			"src"
-		],
-		"java.project.outputPath": "bin",
-		"java.project.referencedLibraries": [
-			"lib/**/*.jar"
-		]
-	}
+    "folders": [
+        {
+            "path": "../.."
+        }
+    ],
+    "settings": {
+        "java.project.sourcePaths": [
+            "bytebank-heredado/src/mx.com.bytebank.model/Model",
+            "bytebank-heredado/src/mx.com.bytebank.test"
+        ]
+    }
 }

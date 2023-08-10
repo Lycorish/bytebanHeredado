@@ -1,3 +1,4 @@
+
 public class TestControlBonificacion {
     public static void main(String[] args) {
         Funcionario ado = new Contador();

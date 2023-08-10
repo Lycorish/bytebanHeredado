@@ -1,4 +1,5 @@
 //Entida Cuenta
+
 public abstract class Cuenta {
 
     private Cliente titular = new Cliente();
